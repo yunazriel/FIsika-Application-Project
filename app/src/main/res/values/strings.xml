@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Physics Scene</string>
+    <string name="loginText">Sambut dunia fisikamu di PhysicsScene</string>
+    <string name="title">Physics Scene</string>
+    <string name="titleConten1">Kasus 1</string>
+    <string name="titleConten2">Kasus 2</string>
+    <string name="titleConten3">Kasus 3</string>
+    <string name="description1">Dalam skenario pertama ini, kita menjelajahi kisah menarik dari film Adam Projek, di mana terdapat adegan dramatis di mana Adam terserang oleh pukulan dari seorang teman.</string>
+    <string name="description2">Untuk skenario kedua ini, kami kembali memilih judul film yang sama, namun dengan perbedaan adegan, yang dimana Adam melempar bola bisbol menuju kegawang</string>
+    <string name="description3">Sesuai dengan dua kasus sebelumnya, kami tetap memilih judul film yang sama, namun kali ini dengan adegan yang berbeda. Mengikuti kisah besar Adam dan petualangan Adam kecil yang menanjak ke langit dengan pesawat jetnya.</string>
+    <string name="calculatorTitle">Calculator</string>
+    <string name="explanationtitle">Explanation</string>
+    <string name="explanation1">Dalam kasus ini, kita mengeksplorasi konsep usaha terkait insiden di mana Adam menerima pukulan dari temannya. Usaha (W) dapat dihitung menggunakan rumus dasar: W = F × s, di mana W adalah usaha, F adalah gaya yang diterapkan, dan s adalah jarak.</string>
+    <string name="explanation2">scene kedua ini merupkan penerapan dari Hukum Newton ketiga yang di mana menyatakan bahwa untuk setiap aksi, selalu ada reaksi yang sama besar namun berlawanan arah. Konsep ini dapat diilustrasikan dengan sempurna melalui contoh sederhana ketika Adam melempar bola bisbol ke arah gawang. Ketika Adam memberikan gaya ke bola bisbol, hukum Newton ketiga menyatakan bahwa ada reaksi yang sebanding, dan bola bisbol akan memantul kembali ke arah Adam. Gaya yang diberikan oleh Adam memiliki magnitudo yang sama dengan gaya yang dipantulkan oleh gawang, tetapi arahnya berlawanan, sejalan dengan rumus hukum Newton ketiga, yaitu Faksi = -Freaksi</string>
+    <string name="explanation3">Dalam scene ketiga ini merupakan penerapan dari pehitungan kecepatan pesawat jet adam, yang dimana kita dapat menggunakan rumus sederhana v = s / t, v adalah kecepatan, s adalah jarak, dan t adalah waktu.</string>
+    <string name="slidecommand">Untuk membuktikan kasus di atas silahkan geser ke-kiri untuk membuka calculator!!</string>
+    <string-array name="select1">
+        <item>Rumus Usaha</item>
+        <item>Rumus Gaya</item>
+        <item>Rumus Jarak</item>
+    </string-array>
+    <string-array name="select2">
+        <item>Rumus Freaksi</item>
+        <item>Rumus Faksi</item>
+    </string-array>
+    <string-array name="select3">
+        <item>Rumus Kecepatan</item>
+        <item>Rumus Jarak</item>
+        <item>Rumus Waktu</item>
+    </string-array>
+</resources>

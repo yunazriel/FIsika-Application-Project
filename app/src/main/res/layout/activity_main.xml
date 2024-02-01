@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D0F7FA"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/matahari"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="100dp"
+        android:height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="91dp"
+        android:layout_marginTop="28dp"
+        android:src="@drawable/matahari"/>
+
+    <ImageView
+        android:id="@+id/awan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="147dp"
+        android:height="84dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="39dp"
+        android:src="@drawable/awan"/>
+
+    <ImageView
+        android:id="@+id/awaan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="261dp"
+        android:layout_marginTop="118dp"
+        android:src="@drawable/awan"
+        android:contentDescription="TODO"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="351dp"
+        app:srcCompat="@drawable/imagehome" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="412dp"
+        android:layout_height="398dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-54dp"
+        app:srcCompat="@drawable/asethome"/>
+
+    <TextView
+        android:id="@+id/loginText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="525dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:gravity="center"
+        android:text="@string/loginText"
+        android:textAppearance="@style/loginText"/>
+
+    <android.widget.Button
+        android:id="@+id/btn_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/loginText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:width="242dp"
+        android:height="60dp"
+        android:text="Mulai"
+        android:textSize="25dp"
+        style="@style/MyButtonStyle"
+        android:textAllCaps="false"
+        android:fontFamily="@font/niramit_bold"/>
+
+</RelativeLayout>

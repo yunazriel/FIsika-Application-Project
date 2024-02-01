@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/buttonmain</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="loginText">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#EEFEFEFF</item>
+        <item name="lineHeight">50dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/kiteone_regular</item>
+    </style>
+    <style name="title">
+        <item name="android:textSize">38sp</item>
+        <item name="android:textColor">#3F4C52</item>
+        <item name="fontFamily">@font/langar_regular</item>
+    </style>
+    <style name="titleContent">
+        <item name="android:textSize">20dp</item>
+        <item name="fontFamily">@font/niramit_bold</item>
+    </style>
+    <style name="descriptions">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/niramit_italic</item>
+        <item name="android:textColor">#737373</item>
+    </style>
+    <style name="titleContentMain">
+        <item name="android:textSize">30dp</item>
+        <item name="fontFamily">@font/niramit_bold</item>
+    </style>
+    <style name="SpinnerTextViewItem" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="contentCalculator">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#737373</item>
+        <item name="fontFamily">@font/niramit_extralight</item>
+    </style>
+    <style name="buttonsCalculator">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#42B1FF</item>
+        <item name="fontFamily">@font/niramit_bold</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="defaultResult">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">#737373</item>
+        <item name="fontFamily">@font/niramit_bold</item>
+    </style>
+    <style name="errorResult">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">#FEF1F1</item>
+        <item name="fontFamily">@font/niramit_bold</item>
+    </style>
+    <style name="explanationDeskription">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#737373</item>
+        <item name="fontFamily">@font/niramit_regular</item>
+    </style>
+    <style name="slidecomend">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#737373</item>
+        <item name="fontFamily">@font/niramit_semibold</item>
+    </style>
+</resources>

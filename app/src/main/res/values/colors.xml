@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tes">#FF00F5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white2">#FEFEFE</color>
+    <color name="card">#F7F7F7</color>
+    <color name="colorError">#F47174</color>
+    <color name="underline_color">#d0f0c0</color>
+    <color name="default_underline_color">#000000</color>
+    <color name="defaultResult">#737373</color>
+    <color name="statusBar">#D0F7FA</color>
+    <color name="navigationBar">#00B882</color>
+</resources>
